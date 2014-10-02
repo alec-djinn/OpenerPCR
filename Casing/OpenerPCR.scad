@@ -1,6 +1,7 @@
-// OpenerPCR case.
-// Ver 0.3
-// by DIYbio Groningen
+// DIYbio OpenerPCR
+// Case
+// www.diybiogroningen.org
+// Version: beta 3
 
 include <OpenrPCR_logo.scad>;
 // Variables
